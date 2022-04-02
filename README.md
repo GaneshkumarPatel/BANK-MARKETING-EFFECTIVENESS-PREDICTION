@@ -2,8 +2,8 @@
 # Problem Statement
 ▪ **Aim:-** Predicting the effectiveness of bank
 marketing campaigns
-▪ **Problem Statement:** The data is related with
-direct marketing campaigns of a Portuguese
+▪ **Problem Statement:** 
+The data is related with direct marketing campaigns of a Portuguese
 banking institution. The marketing campaigns
 were based on phone calls. Often, more than one
 contact to the same client was required, in order
@@ -14,7 +14,9 @@ subscribe a term deposit (variable ‘y’).
 
 
 # Data Summary
+
 **Categorical Features**
+
 ▪ Marital - (Married , Single , Divorced)
 ▪ Job-(Management,BlueCollar,retired etc)
 ▪ Contact - (Telephone,Cellular,Unknown)
@@ -24,7 +26,9 @@ subscribe a term deposit (variable ‘y’).
 ▪ Housing - (Yes/No)
 ▪ Loan - (Yes/No)
 ▪ Default - (Yes/No)
-**● Numerical Features**
+
+**Numerical Features**
+
 ▪ Age
 ▪ Balance
 ▪ Day
