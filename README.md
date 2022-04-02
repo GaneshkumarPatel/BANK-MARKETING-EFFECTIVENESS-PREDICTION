@@ -111,7 +111,6 @@ If the clients are contacted twice in first 10 days of the month, then it is mor
 Clients take more subscriptions in a month of January, May or August.
 If clients are already paying housing loans, then it is more likely that they will opt for term deposit.
 In our dataset we were provided with call 'duration' but in real world practise that won't be the case. So, to build more realistic model we trained our models for both the cases i.e with or without 'duration'. For both the cases LGBM showed best scores of recall with 'duration' and precision without 'duration'.
-![image](https://user-images.githubusercontent.com/66200786/161384561-4b4dc4f7-82fc-409d-876f-35f629058136.png
 
 # Future Scope
 
