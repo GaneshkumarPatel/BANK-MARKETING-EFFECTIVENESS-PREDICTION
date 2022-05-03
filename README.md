@@ -145,6 +145,14 @@ that lead and also, those leads that have least proability to converge (if we ge
 for any assumed duration). Thus, an effective marketing campaign can be executed with maximum
 leads converging to term deposit.
 
+**Team:**
+
+1. Ganeshkumar Patel
+2. Akanksha Agrawal
+3. Yaman Saini
+4. Sanjay Kumar
+5. Saurabh Funde
+
 # 📚 References
 
 https://www.geeksforgeeks.org/lightgbm-light-gradient-boosting-machine/
