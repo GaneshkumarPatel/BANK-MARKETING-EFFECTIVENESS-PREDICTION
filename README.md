@@ -20,8 +20,8 @@ subscribe a term deposit (variable ‘y’).
 
 This Project includes 1 executable files, 1 presentation and 1 project documentation as follows:
 
-Executable Files:
-**Bank_Marketing_Effectiveness_Prediction.ipynb Team Notebook** - Complete notebook containing Data exploration/Data processing/transformation/model development.
+**Executable Files:**
+Bank_Marketing_Effectiveness_Prediction.ipynb Team Notebook - Complete notebook containing Data exploration/Data processing/transformation/model development.
 
 **Presentation:**
 Bank_Marketing_Effectiveness_Predictio.pdf - Contains presentation i.e pptx of the project .
