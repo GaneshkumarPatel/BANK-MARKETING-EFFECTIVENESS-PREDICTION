@@ -5,7 +5,8 @@
 ▪ **Aim:-** Predicting the effectiveness of bank
 marketing campaigns
 
-▪ **Problem Statement:** 
+# Problem Statement:
+
 The data is related with direct marketing campaigns of a Portuguese
 banking institution. The marketing campaigns
 were based on phone calls. Often, more than one
@@ -15,8 +16,8 @@ would be ('yes') or not ('no') subscribed.The
 classification goal is to predict if the client will
 subscribe a term deposit (variable ‘y’).
 
-**
-💾 Project Files Description**
+# 💾 Project Files Description
+
 This Project includes 1 executable files, 1 presentation and 1 project documentation as follows:
 
 Executable Files:
@@ -144,7 +145,7 @@ that lead and also, those leads that have least proability to converge (if we ge
 for any assumed duration). Thus, an effective marketing campaign can be executed with maximum
 leads converging to term deposit.
 
-**📚 References**
+# 📚 References
 
 Available: https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
 
