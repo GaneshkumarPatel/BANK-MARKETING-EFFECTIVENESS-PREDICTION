@@ -15,6 +15,18 @@ would be ('yes') or not ('no') subscribed.The
 classification goal is to predict if the client will
 subscribe a term deposit (variable ‘y’).
 
+**
+💾 Project Files Description**
+This Project includes 1 executable files, 1 presentation and 1 project documentation as follows:
+
+Executable Files:
+Email_Campaign_Effectiveness_Prediction.ipynb Team Notebook - Complete notebook containing Data exploration/Data processing/transformation/model development.
+
+Presentation:
+Email Campaign Effectiveness Prediction (1).pdf - Contains presentation i.e pptx of the project .
+
+Documentation:
+Email Campaign Effectiveness Prediction_cohort_nilgiri.docx.pdf - Includes the documentation of the project.
 
 # Data Summary
 
@@ -131,4 +143,20 @@ lead.
 that lead and also, those leads that have least proability to converge (if we get no positive response
 for any assumed duration). Thus, an effective marketing campaign can be executed with maximum
 leads converging to term deposit.
+
+**📚 References**
+
+Available: https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
+
+Wikipedia.org, 'XGBoost'. [Online].
+
+Available: https://en.wikipedia.org/wiki/XGBoost
+
+Youtube.com, 'XGBoost working'. [Online].
+
+Available: https://www.youtube.com/watch?v=OQKQHNCVf5k
+
+Manisha-sirsat.blogspot.com, 'What is Confusion Matrix and Advanced Classification Metrics?'. [Online].
+
+Available: https://manisha-sirsat.blogspot.com/2019/04/confusion-matrix.html
 
