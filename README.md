@@ -147,17 +147,10 @@ leads converging to term deposit.
 
 # 📚 References
 
-Available: https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/
+https://www.geeksforgeeks.org/lightgbm-light-gradient-boosting-machine/
 
-Wikipedia.org, 'XGBoost'. [Online].
-
-Available: https://en.wikipedia.org/wiki/XGBoost
-
-Youtube.com, 'XGBoost working'. [Online].
-
-Available: https://www.youtube.com/watch?v=OQKQHNCVf5k
+https://lightgbm.readthedocs.io/en/latest/index.html
 
 Manisha-sirsat.blogspot.com, 'What is Confusion Matrix and Advanced Classification Metrics?'. [Online].
 
-Available: https://manisha-sirsat.blogspot.com/2019/04/confusion-matrix.html
 
